@@ -1414,11 +1414,11 @@ h1 + .line{
 }
 
 .project-box:hover h4{
-  color: #000;
+  color: rgb(255, 255, 255);
 }
 
 .project-box:hover .project-category{
-  color:#666666;
+  color:#ffffff;
 }
 
 @media (min-width: 768px){
